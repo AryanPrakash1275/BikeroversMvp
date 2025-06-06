@@ -1,0 +1,6 @@
+@BikeroversMvp_HostAddress = http://localhost:5111
+
+GET {{BikeroversMvp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
